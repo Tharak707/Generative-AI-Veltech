@@ -1,1 +1,1 @@
-# Generative-AI-Veltech
+welcome to GENERATIVE AI project !
